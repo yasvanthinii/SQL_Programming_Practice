@@ -1,0 +1,5 @@
+CREATE DATABASE CollegeDB;
+
+SHOW DATABASES;
+
+USE CollegeDB;
